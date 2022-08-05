@@ -1,2 +1,2 @@
-# pics
-pics collecting by webclipper
+# imagesrepo
+An images repository for images collecting by webclipper
